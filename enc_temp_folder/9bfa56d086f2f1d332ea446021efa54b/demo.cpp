@@ -5,7 +5,6 @@ using namespace cv;
 using namespace std;
 
 
-
 float normL2(float * Hist1, float * Hist2, int size)
 {
 	float sum = 0;
